@@ -1,0 +1,9 @@
+from,to,association,amount
+Patient Intake,Assess Medical Diagnosis,1,8
+Patient Intake,Obtain Brief Medical History,5,3
+Patient Administration, Add a new Patient,1,3
+Patient Administration, Discharge a Patient,5,5
+Assess Medical Diagnosis,Patient Intake,1,8
+Obtain Brief Medical History,Patient Intake,5,3
+Add a new Patient,Patient Administration,1,3
+Discharge a Patient,Patient Administration,5,5

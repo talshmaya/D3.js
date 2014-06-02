@@ -1,0 +1,3 @@
+from,to,association,amount
+A1, A2,1,1
+A2,A1,1,1
